@@ -11,11 +11,10 @@ The repository contains five python scripts, corresponding to the following sect
 
 The repository further contains:
 
-1. An electronic copy of the thesis
-2. The labelled silent-sound shot scale data set
-3. The example model comparison data set which elucidates the required format of the classification performance results
+1. The labelled silent-sound shot scale data set
+2. The example model comparison data set which elucidates the required format of the classification performance results
    for the purpose of utilising the aforementioned 5x2 cross-validated paired t-test python script.
-4. The Orange Data Mining Software concept demonstrator project file, 
+3. The Orange Data Mining Software concept demonstrator project file, 
    which forms the basis of the SHAP value analysis described in Section 5.1.1.
 
 ## A note regarding the naming of the shot scale data:
